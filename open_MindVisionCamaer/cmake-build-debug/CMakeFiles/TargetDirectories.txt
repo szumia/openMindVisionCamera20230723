@@ -1,0 +1,3 @@
+/home/nuc/Desktop/clionProjects/open_MindVisionCamaer/cmake-build-debug/CMakeFiles/open_MindVisionCamera.dir
+/home/nuc/Desktop/clionProjects/open_MindVisionCamaer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nuc/Desktop/clionProjects/open_MindVisionCamaer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
