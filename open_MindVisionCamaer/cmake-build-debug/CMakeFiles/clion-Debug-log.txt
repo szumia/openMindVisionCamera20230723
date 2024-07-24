@@ -1,4 +1,0 @@
-/home/nuc/Downloads/CLion-2023.1/clion-2023.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/nuc/Downloads/CLion-2023.1/clion-2023.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/nuc/Desktop/clionProjects/open_MindVisionCamaer -B /home/nuc/Desktop/clionProjects/open_MindVisionCamaer/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/nuc/Desktop/clionProjects/open_MindVisionCamaer/cmake-build-debug
